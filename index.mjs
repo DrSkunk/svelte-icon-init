@@ -17,6 +17,7 @@ if (process.argv.length !== 3) {
     prettier: true,
     eslint: true,
     playwright: false,
+    vitest: false,
   });
   process.chdir(process.argv[2]);
   await execa("npm", ["install"]);

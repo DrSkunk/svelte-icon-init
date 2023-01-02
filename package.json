@@ -7,7 +7,7 @@
   "author": "Sebastiaan Jansen",
   "license": "ISC",
   "dependencies": {
-    "create-svelte": "^2.0.0-next.192",
+    "create-svelte": "^2.0.1",
     "execa": "^6.1.0"
   }
 }
